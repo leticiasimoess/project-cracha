@@ -45,9 +45,9 @@ main {
 
 .avatar>img {
     width: 10rem;
-    height: 25.5rem;
+    height: 15.5rem;
     object-fit: cover;
-    clip-path: polygon(44% 100%, 0 0, 100% 0);
+    clip-path: polygon(50% 0, 100% 25%, 100% 75%, 50% 100%, 0 75%, 0 25%);
 }
 
 h1 {
