@@ -44,10 +44,10 @@ main {
 }
 
 .avatar>img {
-    width: 20rem;
+    width: 10rem;
     height: 25.5rem;
     object-fit: cover;
-    clip-path: polygon(44% 100%, 0 0, 100% 0);
+    clip-path: circle(50% at 50% 50%);
 }
 
 h1 {
