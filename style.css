@@ -47,7 +47,7 @@ main {
     width: 20rem;
     height: 25.5rem;
     object-fit: cover;
-    clip-path: polygon(50% 0, 100% 25%, 100% 75%, 50% 100%, 0 75%, 0 25%);
+    clip-path: polygon(44% 100%, 0 0, 100% 0);
 }
 
 h1 {
