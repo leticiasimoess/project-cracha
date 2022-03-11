@@ -32,7 +32,7 @@ main {
 }
 
 .avatar {
-    width: 20rem;
+    width: 10rem;
     margin: 11.5rem auto 0;
     position: relative;
 }
@@ -67,7 +67,7 @@ a {
 }
 
 p {
-    margin-top: 3rem;
+    margin-top: 2rem;
     font-size: 23px;
 }
 
